@@ -1,0 +1,31 @@
+    .logo-header {
+height: 100px; /* větší logo nahoře */
+cursor: pointer;
+    }
+
+    header {
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+    } 
+
+    body {
+font-family: Cambria;
+margin: 50px;
+    }
+
+    nav {
+background-color: rgb(195, 214, 145);
+font-size: 20px;
+padding: 10px;
+border-radius: 8px;
+display: flex;
+justify-content: space-evenly;
+font-weight: bold;
+color: rgb(9, 70, 3);
+    }
+
+nav a {
+cursor: pointer;
+
+}
